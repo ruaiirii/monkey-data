@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "Manchester United",
+    "Location": "Manchester, England",
+    "Details": "Most successful team in England, globally renowned football club, celebrated for its rich history and a record-breaking number of Premier League titles.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/manutd.png",
+    "Population": 74,310,
+    "Latitude": 53.463167,
+    "Longitude": 2.291528
+  },
+  {
+    "Name": "Chelsea",
+    "Location": "London, England",
+    "Details": "prominent London-based team known for its passionate fanbase and numerous successes in both domestic and European competitions.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/chelsea.png",
+    "Population": 40,341,
+    "Latitude": 51.481944,
+    "Longitude": 0.190889
+  },
+  {
+    "Name": "Cliftonville",
+    "Location": "Belfast, Ireland",
+    "Details": "Recognized as the oldest football club in Ireland and boasts a proud tradition of community involvement and competitive spirit in the Irish League.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/cliftonville.png",
+    "Population": 6,224,
+    "Latitude": 54.619389,
+    "Longitude": 5.947278
+  },
+{
+    "Name": "Celtic",
+    "Location": "Glasgow, Scotland",
+    "Details": "Celebrated for its fervent support and dominant presence in Scottish football, marked by numerous league titles and a historic European Cup win.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/celtic.png",
+    "Population": 60,411,
+    "Latitude": 55.849889,
+    "Longitude": -4.205833
+  },
+{
+    "Name": "Barcelona",
+    "Location": "Barcelona, Spain",
+    "Details": "Known for its beautiful style of play, illustrious history, and commitment to developing world-class talent through its La Masia academy.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/barcelona.png",
+    "Population": 99,354,
+    "Latitude": 41.381556,
+    "Longitude": 2.123167
+  },
+{
+    "Name": "Real Madrid",
+    "Location": "Madrid, Spain",
+    "Details": "One of the most prestigious football clubs in the world, famous for its rich history, numerous European titles, and a team consistently filled with some of the sport's top talents.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/realmadrid.jpg",
+    "Population": 85,000,
+    "Latitude": 40.452806,
+    "Longitude": -3.688417
+  },
+{
+    "Name": "Bayern Munich",
+    "Location": "Muinch, Germany",
+    "Details": "Powerhouse in German football, renowned for its consistent dominance in the Bundesliga and strong performances in European competitions.",
+    "Image": "https://github.com/ruaiirii/monkey-data/raw/main/images/bayern.png",
+    "Population": 70,000 ,
+    "Latitude": 48.218833,
+    "Longitude": 11.624889
+  },
+
+]
